@@ -1,7 +1,7 @@
 
 # proxies-proxyipchecker
 
-  Scrapes the public proxies list from [proxyipchecker.com](http://proxyipchecker.com/). Made to be used as a proxies source list to [proxies](https://github.com/ivolo/proxies).
+  Scrapes the public proxies list from [proxyipchecker.com](http://proxyipchecker.com/). Primarily used as a proxies source list to [proxies](https://github.com/ivolo/proxies).
 
 
 ## Example
